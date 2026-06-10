@@ -1,4 +1,4 @@
-# CodeAlpha-ChatBot
+# CodeAlpha- Basic ChatBot
 
 # Description
 A basic rule-based chatbot developed using 
